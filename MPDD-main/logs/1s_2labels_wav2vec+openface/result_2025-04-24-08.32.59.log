@@ -1,0 +1,4 @@
+2025-04-24 08:33:04,426 - utils.logger2025-04-24-08.32.59 - INFO - splitwindow_time=1s, audiofeature_method=wav2vec, videofeature_method=openface
+2025-04-24 08:33:04,427 - utils.logger2025-04-24-08.32.59 - INFO - batch_size=16, num_epochs=5, labels=2, feature_max_len=25, lr=6e-05
+2025-04-24 08:33:04,522 - utils.logger2025-04-24-08.32.59 - INFO - Using random seed: 3407
+2025-04-24 08:33:04,522 - utils.logger2025-04-24-08.32.59 - INFO - personalized features used：/root/MPDD-Young/Training/individualEmbedding/descriptions_embeddings_with_ids.npy

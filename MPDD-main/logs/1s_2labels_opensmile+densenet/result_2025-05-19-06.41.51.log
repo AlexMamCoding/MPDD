@@ -1,0 +1,6 @@
+2025-05-19 06:41:55,303 - utils.logger2025-05-19-06.41.51 - INFO - splitwindow_time=1s, audiofeature_method=opensmile, videofeature_method=densenet
+2025-05-19 06:41:55,303 - utils.logger2025-05-19-06.41.51 - INFO - batch_size=1, num_epochs=200, labels=2, feature_max_len=26, lr=2e-05
+2025-05-19 06:41:55,304 - utils.logger2025-05-19-06.41.51 - INFO - Using random seed: 4
+2025-05-19 06:41:55,304 - utils.logger2025-05-19-06.41.51 - INFO - personalized features used：/root/MPDD-Elderly/Training/individualEmbedding/descriptions_embeddings_with_ids.npy
+2025-05-19 06:41:55,550 - utils.logger2025-05-19-06.41.51 - INFO - The number of training samples = 295
+2025-05-19 06:41:55,550 - utils.logger2025-05-19-06.41.51 - INFO - The number of val samples = 42

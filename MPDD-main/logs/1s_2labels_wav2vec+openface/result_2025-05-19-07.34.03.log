@@ -1,0 +1,2 @@
+2025-05-19 07:34:03,153 - utils.logger2025-05-19-07.34.03 - INFO - splitwindow_time=1s, audiofeature_method=wav2vec, videofeature_method=openface
+2025-05-19 07:34:03,154 - utils.logger2025-05-19-07.34.03 - INFO - batch_size=1, , labels=2, feature_max_len=25

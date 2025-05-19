@@ -1,0 +1,51 @@
+2025-05-19 04:54:30,947 - utils.logger2025-05-19-04.54.27 - INFO - splitwindow_time=1s, audiofeature_method=wav2vec, videofeature_method=openface
+2025-05-19 04:54:30,947 - utils.logger2025-05-19-04.54.27 - INFO - batch_size=16, num_epochs=10, labels=2, feature_max_len=25, lr=6e-05
+2025-05-19 04:54:30,948 - utils.logger2025-05-19-04.54.27 - INFO - Using random seed: 3407
+2025-05-19 04:54:30,948 - utils.logger2025-05-19-04.54.27 - INFO - personalized features used：/root/MPDD-Young/Training/individualEmbedding/descriptions_embeddings_with_ids.npy
+2025-05-19 04:54:31,202 - utils.logger2025-05-19-04.54.27 - INFO - The number of training samples = 237
+2025-05-19 04:54:31,202 - utils.logger2025-05-19-04.54.27 - INFO - The number of val samples = 27
+2025-05-19 04:54:33,760 - utils.logger2025-05-19-04.54.27 - INFO - Epoch 1/10, Avg Loss: 0.6965281288, Weighted F1: 0.3968253968, Unweighted F1: 0.3571428571, Weighted Acc: 0.5000000042, Unweighted Acc: 0.5555555556
+2025-05-19 04:54:33,761 - utils.logger2025-05-19-04.54.27 - INFO - Confusion Matrix:
+[[15  0]
+ [12  0]]
+2025-05-19 04:54:35,941 - utils.logger2025-05-19-04.54.27 - INFO - Epoch 2/10, Avg Loss: 0.6962064783, Weighted F1: 0.3968253968, Unweighted F1: 0.3571428571, Weighted Acc: 0.5000000042, Unweighted Acc: 0.5555555556
+2025-05-19 04:54:35,942 - utils.logger2025-05-19-04.54.27 - INFO - Confusion Matrix:
+[[15  0]
+ [12  0]]
+2025-05-19 04:54:38,003 - utils.logger2025-05-19-04.54.27 - INFO - Epoch 3/10, Avg Loss: 0.6957946897, Weighted F1: 0.3968253968, Unweighted F1: 0.3571428571, Weighted Acc: 0.5000000042, Unweighted Acc: 0.5555555556
+2025-05-19 04:54:38,003 - utils.logger2025-05-19-04.54.27 - INFO - Confusion Matrix:
+[[15  0]
+ [12  0]]
+2025-05-19 04:54:40,058 - utils.logger2025-05-19-04.54.27 - INFO - Epoch 4/10, Avg Loss: 0.6912270586, Weighted F1: 0.3968253968, Unweighted F1: 0.3571428571, Weighted Acc: 0.5000000042, Unweighted Acc: 0.5555555556
+2025-05-19 04:54:40,059 - utils.logger2025-05-19-04.54.27 - INFO - Confusion Matrix:
+[[15  0]
+ [12  0]]
+2025-05-19 04:54:42,110 - utils.logger2025-05-19-04.54.27 - INFO - Epoch 5/10, Avg Loss: 0.6965773106, Weighted F1: 0.3968253968, Unweighted F1: 0.3571428571, Weighted Acc: 0.5000000042, Unweighted Acc: 0.5555555556
+2025-05-19 04:54:42,111 - utils.logger2025-05-19-04.54.27 - INFO - Confusion Matrix:
+[[15  0]
+ [12  0]]
+2025-05-19 04:54:44,142 - utils.logger2025-05-19-04.54.27 - INFO - Epoch 6/10, Avg Loss: 0.6967430115, Weighted F1: 0.3968253968, Unweighted F1: 0.3571428571, Weighted Acc: 0.5000000042, Unweighted Acc: 0.5555555556
+2025-05-19 04:54:44,142 - utils.logger2025-05-19-04.54.27 - INFO - Confusion Matrix:
+[[15  0]
+ [12  0]]
+2025-05-19 04:54:46,203 - utils.logger2025-05-19-04.54.27 - INFO - Epoch 7/10, Avg Loss: 0.6943909367, Weighted F1: 0.3968253968, Unweighted F1: 0.3571428571, Weighted Acc: 0.5000000042, Unweighted Acc: 0.5555555556
+2025-05-19 04:54:46,204 - utils.logger2025-05-19-04.54.27 - INFO - Confusion Matrix:
+[[15  0]
+ [12  0]]
+2025-05-19 04:54:48,249 - utils.logger2025-05-19-04.54.27 - INFO - Epoch 8/10, Avg Loss: 0.6954132795, Weighted F1: 0.3968253968, Unweighted F1: 0.3571428571, Weighted Acc: 0.5000000042, Unweighted Acc: 0.5555555556
+2025-05-19 04:54:48,249 - utils.logger2025-05-19-04.54.27 - INFO - Confusion Matrix:
+[[15  0]
+ [12  0]]
+2025-05-19 04:54:50,294 - utils.logger2025-05-19-04.54.27 - INFO - Epoch 9/10, Avg Loss: 0.6959589283, Weighted F1: 0.3968253968, Unweighted F1: 0.3571428571, Weighted Acc: 0.5000000042, Unweighted Acc: 0.5555555556
+2025-05-19 04:54:50,294 - utils.logger2025-05-19-04.54.27 - INFO - Confusion Matrix:
+[[15  0]
+ [12  0]]
+2025-05-19 04:54:52,388 - utils.logger2025-05-19-04.54.27 - INFO - Epoch 10/10, Avg Loss: 0.6968673070, Weighted F1: 0.5820105820, Unweighted F1: 0.5714285714, Weighted Acc: 0.5750000013, Unweighted Acc: 0.5925925926
+2025-05-19 04:54:52,388 - utils.logger2025-05-19-04.54.27 - INFO - Confusion Matrix:
+[[11  4]
+ [ 7  5]]
+2025-05-19 04:54:52,919 - utils.logger2025-05-19-04.54.27 - INFO - Training complete. Random seed: 3407. Best epoch: 10.
+2025-05-19 04:54:52,919 - utils.logger2025-05-19-04.54.27 - INFO - Best Weighted F1: 0.5820, Best Unweighted F1: 0.5714, Best Weighted Acc: 0.5750, Best Unweighted Acc: 0.5926.
+2025-05-19 04:54:52,920 - utils.logger2025-05-19-04.54.27 - INFO - Confusion Matrix:
+[[11  4]
+ [ 7  5]]

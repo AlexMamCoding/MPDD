@@ -1,0 +1,6 @@
+2025-05-18 15:21:59,700 - utils.logger2025-05-18-15.21.55 - INFO - splitwindow_time=1s, audiofeature_method=wav2vec, videofeature_method=openface
+2025-05-18 15:21:59,700 - utils.logger2025-05-18-15.21.55 - INFO - batch_size=16, num_epochs=10, labels=2, feature_max_len=25, lr=6e-05
+2025-05-18 15:21:59,701 - utils.logger2025-05-18-15.21.55 - INFO - Using random seed: 3407
+2025-05-18 15:21:59,701 - utils.logger2025-05-18-15.21.55 - INFO - personalized features used：/root/MPDD-Young/Training/individualEmbedding/descriptions_embeddings_with_ids.npy
+2025-05-18 15:21:59,948 - utils.logger2025-05-18-15.21.55 - INFO - The number of training samples = 237
+2025-05-18 15:21:59,948 - utils.logger2025-05-18-15.21.55 - INFO - The number of val samples = 27

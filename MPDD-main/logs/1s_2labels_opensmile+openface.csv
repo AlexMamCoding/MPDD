@@ -1,0 +1,2 @@
+Time,random seed,splitwindow_time,labelcount,audiofeature_method,videofeature_method,batch_size,num_epochs,feature_max_len,lr,Weighted_F1,Unweighted_F1,Weighted_Acc,Unweighted_Acc,Confusion_Matrix
+2025-05-19 04:26:18,3407,1s,2,opensmile,openface,16,10,25,0.000060,0.3968,0.3571,0.5000,0.5556,[15 0] [12 0]
