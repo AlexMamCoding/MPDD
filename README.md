@@ -1,2 +1,2 @@
 # MPDD
-This is a respository for a MM competition for an ACM MM 2025 event.
+This is a respository for an MM competition of an ACM MM 2025 event.
